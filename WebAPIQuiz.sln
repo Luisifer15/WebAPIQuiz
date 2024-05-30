@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPIQuiz", "WebAPIQuiz.csproj", "{66DE8ACE-AFC1-4475-9872-A10EE66EA32D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66DE8ACE-AFC1-4475-9872-A10EE66EA32D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66DE8ACE-AFC1-4475-9872-A10EE66EA32D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66DE8ACE-AFC1-4475-9872-A10EE66EA32D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66DE8ACE-AFC1-4475-9872-A10EE66EA32D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CA5ADD0-2D65-42AD-B89B-AB6953A8C5D7}
+	EndGlobalSection
+EndGlobal
